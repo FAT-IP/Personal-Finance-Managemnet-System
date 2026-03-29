@@ -1,6 +1,6 @@
 # Personal-Finance-Managemnet-System
 
-A professional Python-based desktop application for tracking daily income and expenses. This project demonstrates core software engineering principles including data persistence, dynamic UI feedback, and modular architecture.
+A Python-based desktop application for tracking daily income and expenses. This project demonstrates core software engineering principles including data persistence, dynamic UI feedback, and modular architecture.
 
 Key Features:
 Dynamic Data Portability: Uses Python's "os" module to automatically detect the project directory, ensuring the SQLite database ("finance.db") works on any PC without manual path configuration.
